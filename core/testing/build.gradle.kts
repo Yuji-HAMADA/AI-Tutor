@@ -19,7 +19,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.samples.apps.nowinandroid.core.testing"
+    namespace = "com.hamada.aitutor.core.testing"
 }
 
 dependencies {

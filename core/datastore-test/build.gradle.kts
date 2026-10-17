@@ -19,7 +19,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.samples.apps.nowinandroid.core.datastore.test"
+    namespace = "com.hamada.aitutor.core.datastore.test"
 }
 
 dependencies {

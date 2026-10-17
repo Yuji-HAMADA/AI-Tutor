@@ -21,7 +21,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.samples.apps.nowinandroid.feature.topic.impl"
+    namespace = "com.hamada.aitutor.feature.topic.impl"
 }
 
 dependencies {

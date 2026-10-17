@@ -20,7 +20,7 @@ plugins {
     alias(libs.plugins.nowinandroid.android.library.jacoco)
 }
 android {
-    namespace = "com.google.samples.apps.nowinandroid.feature.interests.impl"
+    namespace = "com.hamada.aitutor.feature.interests.impl"
     testOptions.unitTests.isIncludeAndroidResources = true
 }
 

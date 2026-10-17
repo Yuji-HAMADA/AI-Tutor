@@ -13,8 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import com.google.samples.apps.nowinandroid.FlavorDimension
-import com.google.samples.apps.nowinandroid.NiaFlavor
+import com.hamada.aitutor.FlavorDimension
+import com.hamada.aitutor.NiaFlavor
 
 /*
  * Copyright 2022 The Android Open Source Project

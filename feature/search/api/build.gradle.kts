@@ -19,7 +19,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.samples.apps.nowinandroid.feature.search.api"
+    namespace = "com.hamada.aitutor.feature.search.api"
 }
 
 dependencies {

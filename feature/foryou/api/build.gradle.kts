@@ -19,7 +19,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.samples.apps.nowinandroid.feature.foryou.api"
+    namespace = "com.hamada.aitutor.feature.foryou.api"
 }
 
 dependencies {

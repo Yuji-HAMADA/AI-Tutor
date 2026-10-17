@@ -22,7 +22,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.samples.apps.nowinandroid.core.database"
+    namespace = "com.hamada.aitutor.core.database"
 }
 
 dependencies {
